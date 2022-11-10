@@ -16,8 +16,7 @@ const users = [
 
 ];
 
-// username: dbUser1
-// password: eMAUs96DIUBHS9zN
+
 
 
 
