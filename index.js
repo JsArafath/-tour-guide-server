@@ -51,8 +51,7 @@ async function run() {
         //     res.send(services);
         // })
 
-       
-// POST API 
+// 
 
 // service post api 
 app.post('/services' , async (req, res) => {
